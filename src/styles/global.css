@@ -78,5 +78,6 @@ textarea {
   font-size: 60px;
   font-weight: 400;
   text-align: center;
-  font-style: italic;
+  font: italic;
+  font-size: large;
 }
