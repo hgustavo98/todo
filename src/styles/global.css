@@ -75,9 +75,8 @@ textarea {
 
 .title {
   color: #f34352d3;
-  font-size: 65px;
-  font-weight: 100;
+  font-size: 60px;
+  font-weight: 400;
   text-align: center;
-  font: italic;
-  font-size: large;
+  font-style: italic;
 }
